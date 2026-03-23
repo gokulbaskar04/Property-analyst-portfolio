@@ -3,7 +3,7 @@ This portfolio presents a collection of advanced financial modelling and propert
 
 # Projects
 # Project 1: Rent Roll & Lease Register Model
-model : [Project1_Rent_Roll_Lease_Register.xlsx](https://github.com/gokulbaskar04/property-analytics-portfolio/blob/main/Project1_Rent_Roll_Lease_Register.xlsx)
+model : [Project1_Rent_Roll_Lease_Register.xlsx](Project1_Rent_Roll_Lease_Register.xlsx)
 
 Developed a lease-level rent roll model to analyse tenant income, lease structures, and vacancy risk.
 
