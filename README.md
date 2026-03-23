@@ -61,7 +61,7 @@ Outcome:
 Enabled prioritisation of high-performing assets based on financial and strategic criteria
 
 # Project 5: Melbourne Property Investment Model
-
+model : [Project5Melbourne Property Investment Model 2.xlsx]( Project5Melbourne Property Investment Model 2.xlsx )
 Built a comprehensive property investment model to assess long-term performance.
 
 Key Work:
