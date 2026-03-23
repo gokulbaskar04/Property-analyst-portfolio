@@ -3,7 +3,7 @@ This portfolio presents a collection of advanced financial modelling and propert
 
 # Projects
 # Project 1: Rent Roll & Lease Register Model
-model : [Project1_Rent_Roll_Lease_Register.xlsx](Project1_Rent_Roll_Lease_Register.xlsx)
+
 
 Developed a lease-level rent roll model to analyse tenant income, lease structures, and vacancy risk.
 
@@ -18,7 +18,7 @@ Outcome:
 Enabled assessment of income stability and highlighted lease rollover risk within the portfolio
  
 # Project 2: Comparable Sales Analysis (Melbourne)
-model : [Project2_Comparable_Sales_Analysis.xlsx](Project2_Comparable_Sales_Analysis.xlsx)
+
 Built a comparable sales model to evaluate property pricing and market positioning.
 
 Key Work:
@@ -32,7 +32,7 @@ Outcome:
 Supported valuation analysis and identified pricing trends across comparable assets
 
 # Project 3: Melbourne Development Feasibility Model
-model : [ Project3_Melbourne_Dev_Feasibility_Model.xlsx]( Project3_Melbourne_Dev_Feasibility_Model.xlsx)
+
 
 Developed a full financial feasibility model to evaluate property investment viability.
 
@@ -47,7 +47,7 @@ Outcome:
 Identified investment viability thresholds and key drivers of return performance.
 
 # Project 4: Capital Investment Prioritisation Model
-model : [Project4_Capital_Prioritisation.xlsx]( Project4_Capital_Prioritisation.xlsx)
+
 
 Designed a decision framework to evaluate and rank multiple property investment opportunities.
 
@@ -62,7 +62,7 @@ Outcome:
 Enabled prioritisation of high-performing assets based on financial and strategic criteria
 
 # Project 5: Melbourne Property Investment Model
-model : [Project5MelbournePropertyInvestmentModel2.xlsx]( Project5MelbournePropertyinvestmentModel2.xlsx )
+
 
 Built a comprehensive property investment model to assess long-term performance.
 
@@ -78,7 +78,7 @@ Assessed investment feasibility and long-term return potential
 
 
 # Project 6: Investment Portfolio Optimisation (LP & ILP)
-model : [Project6InvestmentPortfolioOptimisation.xlsx](Project6_InvestmentPortfolioOptimisation.xlsx)
+
 
 Developed optimisation models using Linear Programming (LP) and Integer Linear Programming (ILP) to maximise portfolio returns under constraints.
 
@@ -99,7 +99,7 @@ Outcome:
 Demonstrated trade-off between diversification and return optimisation
 
 # project 7: Financial Modelling & Monte Carlo Simulation
-model : [Project7Financial_Modelling_Scenario_Analysis_and_MonteCarlo_Simulation.xlsx ](Project7Financial_Modelling_Scenario_Analysis_and_MonteCarlo_Simulation.xlsx )
+
 
 Built simulation-based models to evaluate uncertainty and risk in investment performance.
 
