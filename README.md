@@ -33,6 +33,7 @@ Supported valuation analysis and identified pricing trends across comparable ass
 
 # Project 3: Melbourne Development Feasibility Model
 model : [ Project3_Melbourne_Dev_Feasibility_Model.xlsx]( Project3_Melbourne_Dev_Feasibility_Model.xlsx)
+
 Developed a full financial feasibility model to evaluate property investment viability.
 
 Key Work:
