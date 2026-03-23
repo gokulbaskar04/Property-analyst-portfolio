@@ -1,2 +1,2 @@
-# Property-analyst-portfolio
-Property investment, financial modelling, feasibility analysis, and portfolio analytics projects
+# Property Analytics & Investment Modelling Portfolio
+# This portfolio presents a collection of advanced financial modelling and property investment analysis projects, demonstrating practical application of valuation techniques, portfolio optimisation, and strategic decision-making frameworks. The work reflects real-world responsibilities of a Property / Investment Analyst, including feasibility analysis, market research, lease modelling, and investment prioritisation using data-driven approaches.
