@@ -105,3 +105,16 @@ Integrated scenario analysis into financial modelling
 Outcome:
 
 Provided deeper insight into downside risk and variability of investment returns
+
+# Tools & Technologies
+1.Advanced Excel (Financial Modelling, Solver, Scenario Analysis)
+
+2.Tableau (Data Visualisation & Dashboarding)
+
+3.ARGUS (workflow concepts and lease modelling logic)
+
+4.Yardi & CoStar (property data and financial management exposure)
+
+# Summary
+
+This portfolio demonstrates the ability to combine financial modelling, market analysis, and strategic thinking to support property investment decisions. The projects reflect a structured, analytical approach aligned with real-world property and investment analyst roles.
