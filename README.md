@@ -61,7 +61,8 @@ Outcome:
 Enabled prioritisation of high-performing assets based on financial and strategic criteria
 
 # Project 5: Melbourne Property Investment Model
-model : [Project5Melbourne Property Investment Model 2.xlsx]( Project5Melbourne Property Investment Model 2.xlsx )
+model : [Project5MelbournePropertyInvestmentModel2.xlsx]( Project5MelbournePropertyinvestmentModel2.xlsx )
+
 Built a comprehensive property investment model to assess long-term performance.
 
 Key Work:
@@ -76,7 +77,8 @@ Assessed investment feasibility and long-term return potential
 
 
 # Project 6: Investment Portfolio Optimisation (LP & ILP)
-model : [Project6_Investment Portfolio Optimisation.xlsx](Project6_Investment Portfolio Optimisation.xlsx)
+model : [Project6InvestmentPortfolioOptimisation.xlsx](Project6_InvestmentPortfolioOptimisation.xlsx)
+
 Developed optimisation models using Linear Programming (LP) and Integer Linear Programming (ILP) to maximise portfolio returns under constraints.
 
 Key Work:
@@ -96,7 +98,8 @@ Outcome:
 Demonstrated trade-off between diversification and return optimisation
 
 # project 7: Financial Modelling & Monte Carlo Simulation
-model : [Project7Financial_Modelling_Scenario_Analysis_and_MonteCarlo_Simulation .xlsx ](Project7Financial_Modelling_Scenario_Analysis_and_MonteCarlo_Simulation .xlsx )
+model : [Project7Financial_Modelling_Scenario_Analysis_and_MonteCarlo_Simulation.xlsx ](Project7Financial_Modelling_Scenario_Analysis_and_MonteCarlo_Simulation.xlsx )
+
 Built simulation-based models to evaluate uncertainty and risk in investment performance.
 
 Key Work:
